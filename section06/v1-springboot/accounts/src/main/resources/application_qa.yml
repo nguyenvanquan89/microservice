@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to QuanNvBank accounts related QA APIs"
+  contactDetails:
+    name: "Nguyen Van Quan - QA Lead"
+    email: "nguyenvanquan8990@gmail.com"
+  onCallSupport:
+    - (84)888-22-7777
+    - (84)888-33-7777

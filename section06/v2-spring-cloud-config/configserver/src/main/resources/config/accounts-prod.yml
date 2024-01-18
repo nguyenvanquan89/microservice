@@ -1,0 +1,11 @@
+  build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to QuanNvBank accounts related prod APIs"
+  contactDetails:
+    name: "Nguyen Van Quan - Product Owner"
+    email: "nguyenvanquan8990@gmail.com"
+  onCallSupport:
+    - (84)888-22-9999
+    - (84)888-33-9999

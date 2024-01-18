@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to QuanNvBank loans related local APIs that loaded by file local"
+  contactDetails:
+    name: "Nguyen Van Quan - Developer"
+    email: "nguyenvanquan8990@gmail.com"
+  onCallSupport:
+    - (84)888-22-6666
+    - (84)888-33-6666
+
